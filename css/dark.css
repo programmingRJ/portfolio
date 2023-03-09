@@ -1,0 +1,99 @@
+@charset "utf-8";
+body {
+  background-color: #111111;
+  color: #ffffff;
+}
+.ulockd-blog-post1 .post-info,
+.ui-state-default, .ui-widget-content .ui-state-default,
+.ulockd-blog-post1 .post-footer,
+.ulockd-testimonial,
+.header-middle, 
+.ulockd-fservice,
+.modal-header,
+form.ulockd-login-form,
+form.ulockd-reg-form,
+.ulockd-team{
+  background-color: #111111;
+}
+.modal-body{
+  background-color: #ebebeb;
+}
+.modal-header .btn-close{
+  background-color: #fff !important;
+}
+.side .close-side{
+  color: #121212 !important;
+}
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  color: #eeeeee !important; }
+  h1 small,
+  h1 .small, h2 small,
+  h2 .small, h3 small,
+  h3 .small, h4 small,
+  h4 .small, h5 small,
+  h5 .small, h6 small,
+  h6 .small,
+  .h1 small,
+  .h1 .small, .h2 small,
+  .h2 .small, .h3 small,
+  .h3 .small, .h4 small,
+  .h4 .small, .h5 small,
+  .h5 .small, .h6 small,
+  .h6 .small {
+    font-weight: normal;
+    line-height: 1;
+    color: #eeeeee !important; }
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+  .h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a {
+    color: #eeeeee !important; }
+ p,
+ .ulockd-blog-post1 .post-details .post-submitter,
+ .ui-state-default,
+ .ui-widget-content .ui-state-default,
+ .ulockd-tcompliment span{
+ 	color: #ffffff !important;
+ }
+.text-thm,
+a {
+  color: #eeeeee !important; }
+  .ulockd-fservice-box{
+ 	border: 1px solid darkmagenta;
+ }
+ .bx-wrapper{
+ 	border-color: darkmagenta !important;
+ }
+ .btn-white{
+ 	color: darkmagenta !important;
+ }
+ .ulockd-srvcs-column,
+ .bx-wrapper,
+ .ulockd-testimonial-carousel .item .media,
+ .about-box2,
+ .ulockd-srvc-column,
+ .ulockd-fservice-box,
+ .ulockd-faq-box .panel-body,
+ .ulockd-faq-content .accordion-body,
+ .post-dates,
+ .ulockd-blog-post1 .post-details,
+ .partner{
+ 	background-color: #212121 !important; 	
+ }
+ .ulockd-booking bg-img3-form{
+ 	background-color: rgba(0,0,0, .5);
+ }
+ .ulockd-blog:before,
+ .ulockd-testimonial-divider:before{
+ 	background-color: rgba(0,0,0, .7);
+ }
+ .ulockd-booking-form,
+ .service-two::before,
+ .ulockd-service-three:before{
+ 	background-color: rgba(0,0,0, .8) !important;
+ }
+ .ulockd-about-two:before{
+ 	background-color: rgba(0,0,0, .9) !important;
+ }
+ .masonry-filter li{
+  background-color: aliceblue;
+ }

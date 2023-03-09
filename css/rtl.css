@@ -1,0 +1,61 @@
+
+/* (min-width:992px) (max-width:1199px) */
+@media only screen and (max-width:1199px){  
+}
+/* (min-width:768px) (max-width:991px) */
+@media only screen and (max-width:991px){
+  /* Home slider rtl */ 
+}
+/* (min-width:480px) (max-width:767px) */
+@media only screen and (max-width:767px){
+  .ulockd-contact-info .ulockd-icon {float: none !important;}
+  .ulockd-ohour-info .ulockd-icon {float: none !important;}
+  /* home slider start */
+  /* Service icon */
+  .ulockd-srvc-column .ulockd-srv-icon {left: 0 !important;}
+}
+@media only screen and (max-width:630px){
+
+}
+/* (min-width:361px) (max-width:479px) */
+@media only screen and (max-width:479px){
+  /* Main Slider Start*/
+}
+@media only screen and (max-width:400px){
+  /* Main Slider Start*/
+}
+@media only screen and (max-width:320px){
+}
+nav.navbar.bootsnav ul.nav .dropdown-menu .dropdown-menu {
+  left: auto;
+  right: 100%;
+}
+nav.navbar.bootsnav li.dropdown ul.dropdown-menu li.dropdown > a.dropdown-toggle:before {
+  content: "\f104" !important;
+  float: left !important;
+}
+.side .close-side {
+  float: left !important;
+}
+.ulockd-faq-content .accordion-item .accordion-button i,
+.ulockd-faq-box .accordion-item .accordion-button i{
+  margin-left: 10px;
+  margin-right: 0;
+}
+/* Home Slider One */
+  .ulockd-ohour-info.style2 {
+    border-left: 2px solid #ddd;
+    border-right: none !important;
+  }
+  .ulockd-ohour-info .ulockd-icon {
+    margin-left: 16px;
+    margin-right: 0;
+  }
+  /* Footer navigation */
+  .footer-qlink .list-unstyled li span{
+    padding-left: 10px;
+  }
+  .footer-qlink .list-unstyled li a:hover {
+    padding-left: 0;
+    padding-right: 10px;
+  }

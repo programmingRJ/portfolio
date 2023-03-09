@@ -1,0 +1,139 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/04/2017 03:07
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-house-key:before { content: "\f100"; }
+.flaticon-lock:before { content: "\f101"; }
+.flaticon-staff-symbol:before { content: "\f102"; }
+.flaticon-phonendoscope:before { content: "\f103"; }
+.flaticon-garlands:before { content: "\f104"; }
+.flaticon-star:before { content: "\f105"; }
+.flaticon-shape:before { content: "\f106"; }
+.flaticon-bell:before { content: "\f107"; }
+.flaticon-women-hairstyling:before { content: "\f108"; }
+.flaticon-woman-hair:before { content: "\f109"; }
+.flaticon-woman-head-silhouette-with-a-flower-in-a-spa:before { content: "\f10a"; }
+.flaticon-books-piled:before { content: "\f10b"; }
+.flaticon-living-room-books-group:before { content: "\f10c"; }
+.flaticon-hand-wash:before { content: "\f10d"; }
+.flaticon-maid:before { content: "\f10e"; }
+.flaticon-laundry:before { content: "\f10f"; }
+.flaticon-exercise-1:before { content: "\f110"; }
+.flaticon-exercise:before { content: "\f111"; }
+.flaticon-stretching-exercises:before { content: "\f112"; }
+.flaticon-yoga-posture:before { content: "\f113"; }
+.flaticon-office-block:before { content: "\f114"; }
+.flaticon-old-man-with-cane:before { content: "\f115"; }
+.flaticon-man-lifting-an-old-man:before { content: "\f116"; }
+.flaticon-minibus:before { content: "\f117"; }
+.flaticon-old-handphone:before { content: "\f118"; }
+.flaticon-email-filled-closed-envelope:before { content: "\f119"; }
+.flaticon-black-back-closed-envelope-shape:before { content: "\f11a"; }
+.flaticon-health-care-1:before { content: "\f11b"; }
+.flaticon-cross:before { content: "\f11c"; }
+.flaticon-command:before { content: "\f11d"; }
+.flaticon-focus:before { content: "\f11e"; }
+.flaticon-unlink:before { content: "\f11f"; }
+.flaticon-calendar:before { content: "\f120"; }
+.flaticon-clock-1:before { content: "\f121"; }
+.flaticon-play-button-1:before { content: "\f122"; }
+.flaticon-clock:before { content: "\f123"; }
+.flaticon-healthy:before { content: "\f124"; }
+.flaticon-chat-2:before { content: "\f125"; }
+.flaticon-chat-1:before { content: "\f126"; }
+.flaticon-chat:before { content: "\f127"; }
+.flaticon-medal:before { content: "\f128"; }
+.flaticon-credit-card:before { content: "\f129"; }
+.flaticon-facebook:before { content: "\f12a"; }
+.flaticon-health-care:before { content: "\f12b"; }
+.flaticon-twitter:before { content: "\f12c"; }
+.flaticon-flickr:before { content: "\f12d"; }
+.flaticon-right-arrow-1:before { content: "\f12e"; }
+.flaticon-left-arrow-1:before { content: "\f12f"; }
+.flaticon-left-arrow:before { content: "\f130"; }
+.flaticon-right-arrow:before { content: "\f131"; }
+.flaticon-add:before { content: "\f132"; }
+.flaticon-people-1:before { content: "\f133"; }
+.flaticon-instagram:before { content: "\f134"; }
+.flaticon-transport-3:before { content: "\f135"; }
+.flaticon-medical-9:before { content: "\f136"; }
+.flaticon-transport-2:before { content: "\f137"; }
+.flaticon-clinic:before { content: "\f138"; }
+.flaticon-medical-8:before { content: "\f139"; }
+.flaticon-nurse-head:before { content: "\f13a"; }
+.flaticon-checkbox-pen-outline:before { content: "\f13b"; }
+.flaticon-technology:before { content: "\f13c"; }
+.flaticon-linkedin-logo:before { content: "\f13d"; }
+.flaticon-facebook-logo:before { content: "\f13e"; }
+.flaticon-black-check-box:before { content: "\f13f"; }
+.flaticon-twitter-logo-on-black-background:before { content: "\f140"; }
+.flaticon-clock-circular-outline:before { content: "\f141"; }
+.flaticon-medical-7:before { content: "\f142"; }
+.flaticon-24-hours-phone-assistance-service:before { content: "\f143"; }
+.flaticon-nurse-1:before { content: "\f144"; }
+.flaticon-folder:before { content: "\f145"; }
+.flaticon-medical-6:before { content: "\f146"; }
+.flaticon-nurse:before { content: "\f147"; }
+.flaticon-sign:before { content: "\f148"; }
+.flaticon-person:before { content: "\f149"; }
+.flaticon-circle:before { content: "\f14a"; }
+.flaticon-line:before { content: "\f14b"; }
+.flaticon-link-symbol:before { content: "\f14c"; }
+.flaticon-calendar-with-a-clock-time-tools:before { content: "\f14d"; }
+.flaticon-magnifier:before { content: "\f14e"; }
+.flaticon-hospital-buildings:before { content: "\f14f"; }
+.flaticon-medical-5:before { content: "\f150"; }
+.flaticon-multiple-users-silhouette:before { content: "\f151"; }
+.flaticon-medical-assistance-24-hours:before { content: "\f152"; }
+.flaticon-medical-4:before { content: "\f153"; }
+.flaticon-opened-email-envelope:before { content: "\f154"; }
+.flaticon-medical-3:before { content: "\f155"; }
+.flaticon-transport-1:before { content: "\f156"; }
+.flaticon-play-button:before { content: "\f157"; }
+.flaticon-shape-1:before { content: "\f158"; }
+.flaticon-medical-2:before { content: "\f159"; }
+.flaticon-tags:before { content: "\f15a"; }
+.flaticon-tool:before { content: "\f15b"; }
+.flaticon-map-marker:before { content: "\f15c"; }
+.flaticon-four-black-squares:before { content: "\f15d"; }
+.flaticon-square-shape-shadow:before { content: "\f15e"; }
+.flaticon-flickr-website-logo-silhouette:before { content: "\f15f"; }
+.flaticon-add-square-button:before { content: "\f160"; }
+.flaticon-medical-kit:before { content: "\f161"; }
+.flaticon-mark:before { content: "\f162"; }
+.flaticon-checked-mark:before { content: "\f163"; }
+.flaticon-medical-1:before { content: "\f164"; }
+.flaticon-twitter-logo-silhouette:before { content: "\f165"; }
+.flaticon-blocks-with-angled-cuts:before { content: "\f166"; }
+.flaticon-straight-quotes:before { content: "\f167"; }
+.flaticon-people:before { content: "\f168"; }
+.flaticon-envelope:before { content: "\f169"; }
+.flaticon-medical:before { content: "\f16a"; }
+.flaticon-transport:before { content: "\f16b"; }
+.flaticon-trophy-for-sports:before { content: "\f16c"; }
+.flaticon-cream:before { content: "\f16d"; }

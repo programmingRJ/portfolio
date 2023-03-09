@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+body{
+  background-color: #d3d3d3 !important;
+  margin: 0 auto;
+  overflow-x: hidden !important;
+  width: 1400px;
+}
+body.on-side {
+  margin-left: auto !important;
+}
+.header-middle,
+.ulockd-fservice,
+.ulockd-team {
+  background-color: #fff;
+}
+.ulockd-main-slider .caption {
+  padding: 11% 14% !important;
+}
+.ulockd-main-slider .caption.style2 {
+  padding: 13% 12% !important;
+}
+.ulockd-main-slider2 .caption {
+  padding: 12% 18%;
+}
+.ulockd-about,
+.ulockd-team-two,
+.ulockd-welcome {
+  background-color: #fff;
+}
+.ulockd-frst-divider::after {
+  right: -20%;
+}
+.feature_row{margin-top: -200px;}
+@media (min-width:1200px){
+    .container{
+        width:1170px
+    }
+}
